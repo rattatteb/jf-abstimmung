@@ -1,0 +1,27 @@
+
+.leftbuttons {
+    float: left;
+    width: 50%;
+    height: 100%;
+}
+
+.rightbuttons {
+    float: right;      
+    width: 50%;
+    height: 100%;
+}
+
+.counterspan {
+    margin-left: 1em;
+}
+
+.titleimage {
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+button {
+    width: 40%;
+    height: 15%;
+}
